@@ -33,7 +33,8 @@ A passionate *Full Stack Developer* with expertise in *Java, SpringBoot, H2, and
 
 ## 📊 GitHub Statistics  
 
-![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siva-offi-1&show_icons=true&hide_title=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siva-offi-1&layout=compact&theme=radical) 
 
 ---
 
