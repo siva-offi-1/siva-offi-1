@@ -25,7 +25,7 @@ A passionate *Full Stack Developer* with expertise in *Java, SpringBoot, H2, and
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 *Programming:*  
-![Java](https://img.shields.io/badge/Java-F24E1E?style=for-the-badge&logo=Java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-F24E1E?style=for-the-badge&logo=c&logoColor=white) 
  
