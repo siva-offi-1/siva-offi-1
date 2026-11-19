@@ -1,7 +1,7 @@
 
 # 🚀 Siva S | Data Scientist
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Siva%20S%20%7C%20Data%20Scientist&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20into%20Insights%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=58&descSize=16)
+![Profile Banner](https://www.plotch.ai/aiops-dashboard.png)
 
 ## 👋 Hi, I'm Siva!
 
