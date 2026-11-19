@@ -1,48 +1,134 @@
-# 🚀 Siva S | Full Stack Developer  
 
-![Profile Banner](https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)  
+# 🚀 Siva S | Data Scientist
 
-## 👋 Hi, I’m Siva  
-A passionate *Full Stack Developer* with expertise in *Java, SpringBoot, H2, and MySQL*. I specialize in building dynamic, responsive, and user-friendly web applications.  
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Siva%20S%20%7C%20Data%20Scientist&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20into%20Insights%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=58&descSize=16)
 
-💼 *Currently working as a Java Developer and Lead Trainer* at *T4TEQ Software Solutions*, where I:  
-✔ Develop and maintain web applications using modern frontend frameworks.  
-✔ Implement server-side logic and APIs for seamless backend communication.  
-✔ Design scalable databases using H2 and MySQL.  
+## 👋 Hi, I'm Siva!
 
----
+A passionate **Data Scientist** interested in transforming raw data into meaningful insights and building intelligent solutions using Machine Learning, Python, and Generative AI.
 
-## 🛠 Skills  
-*Frontend:*  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)   
+I focus on data analysis, predictive modeling, NLP, and AI-powered applications to solve real-world problems.
 
-*Backend & Database:*  
-![SpringBoot](https://img.shields.io/badge/SpringBoot-339933?style=for-the-badge&logo=springboot&logoColor=white)   
-![H2](https://img.shields.io/badge/H2-47A248?style=for-the-badge&logo=h2&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-*Programming:*  
-![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-F24E1E?style=for-the-badge&logo=c&logoColor=white) 
- 
----
-
-## 📊 GitHub Statistics  
-
-![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siva-offi-1&show_icons=true&hide_title=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siva-offi-1&layout=compact&theme=radical) 
+💼 **Currently working at T4TEQ Software Solutions**
 
 ---
 
-## 🤝 Connect with Me  
-📫 *Reach me at:* sivagurunath2001@gmail.com
+## 🛠️ Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siva-s-3637b12a6) 
+### 🤖 AI & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+- Machine Learning
+- Supervised Learning
+- Classification & Regression
+- Model Evaluation
+- Feature Selection
+- Predictive Analytics
+
+### 🧠 Generative AI
+
+![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- LLM-Based Application Concepts
+
+### 🐍 Python & Data Science Libraries
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### 💬 Natural Language Processing (NLP)
+
+- Text Preprocessing
+- Sentiment Analysis
+- Text Classification
+
+### 🗄️ Data & Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- SQL & MySQL
+- MongoDB
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Statistical Analysis
+
+### 📊 Data Analytics & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Visualization
+- KPI Analysis
+- Dashboard Development
+
+### 💻 Programming & Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+- Python
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- Spring Boot
 
 ---
 
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siva-offi-1&show_icons=true&hide_title=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siva-offi-1&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=siva-offi-1&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** [sivagurunath2001@gmail.com](mailto:sivagurunath2001@gmail.com)
+
+📱 **Phone:** [6379022582](tel:6379022582)
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivagurunath2001@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siva-s-3637b12a6)
+
+---
+
+## 💡 My Interests
+
+- Data Science & Machine Learning
+- Artificial Intelligence
+- Generative AI & LLMs
+- Natural Language Processing
+- Data Analytics & Visualization
+- Building Intelligent Applications
+
+---
+
+> "Data is the new oil, but insight is the real power."
