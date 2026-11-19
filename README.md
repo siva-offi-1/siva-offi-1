@@ -1,7 +1,7 @@
 
 # 🚀 Siva S | Data Scientist
 
-![Profile Banner](https://www.plotch.ai/aiops-dashboard.png)
+![Profile Banner]([https://www.plotch.ai/aiops-dashboard.png](https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=951&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D))
 
 ## 👋 Hi, I'm Siva!
 
